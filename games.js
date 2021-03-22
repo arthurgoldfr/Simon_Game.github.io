@@ -80,5 +80,5 @@ function startOver() {
   started = false;
   gamePattern = [];
   level = 1;
-  j=0;
+  j=1;
 }
